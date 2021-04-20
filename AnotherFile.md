@@ -1,9 +1,9 @@
 
-[ToREADME.md](README.md)
-
 ## This is a H2 header
 
 #### This is a H4 header
+
+[ToREADME.md](README.md)
 
 [百度](http://baidu.com)
 
@@ -33,3 +33,11 @@ int main(){
  | ---- | ---- | ---- |
  | 单元格 | 单元格 | 单元格 |
  | 单元格 | 单元格 | 单元格 |
+
+**粗体文本**
+
+_斜体文本_
+
+~~删除文本~~
+
+-------------------------------------------------------
